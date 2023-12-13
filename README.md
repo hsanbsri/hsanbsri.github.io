@@ -1,15 +1,3 @@
-# hsanbsri.github.io
-My portofolio website
+Hello My Name is Muhammad Hasan Basri. I Am College Student 
 
-Hello all This my Portofolio Website 
-I hope you enjoy
-
-This website i use 
-HTML,CSS,JAVASCRIPT
-AND BOOTSTRAP
-
-CONTACT IS CONNECTED TO GOOGLE-SHEATS
-
-enjoy your life 
-dont forget to smile
-#
+I have a huge interest in website
