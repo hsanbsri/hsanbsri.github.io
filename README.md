@@ -1,3 +1,3 @@
-Hello My Name is Muhammad Hasan Basri. I Am College Student 
+Hello My Name is Muhammad Hasan Basri. I'm a Full Stack Developer specializing in Laravel and Next.js.
 
-I have a huge interest in website
+I have a huge interest in website development, DevOps, and cloud infrastructure.

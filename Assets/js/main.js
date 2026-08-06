@@ -3,7 +3,7 @@ const form = document.forms['hsanbsri-contact-form']
 const btnkirim = document.querySelector('.btn-kirim');
 const btnloading = document.querySelector('.btn-loading');
 const myAlert = document.querySelector('.my-alert');
-const textElement = ['Freelancer', 'Web Developer', 'Mobile Programmer']
+const textElement = ['Full Stack Developer', 'Laravel Developer', 'Next.js Developer', 'DevOps Enthusiast']
 const tetydonwload = ['Download My CV']
 
 // aos
